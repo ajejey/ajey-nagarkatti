@@ -57,7 +57,7 @@ export default function ContactSection() {
       <div className="text-center mb-16">
         <h2 className="text-4xl font-bold mb-4">Get In Touch</h2>
         <p className="text-gray-600 dark:text-gray-400">
-          Let's discuss job opportunity
+          Lets discuss job opportunity
         </p>
       </div>
 
