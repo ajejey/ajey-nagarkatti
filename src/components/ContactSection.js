@@ -43,13 +43,13 @@ export default function ContactSection() {
       icon: Mail,
       color: 'text-red-500'
     },
-    {
-      name: 'Resume',
-      href: '/projects/Ajey_N_Resume.pdf',
-      icon: FileDown,
-      color: 'text-green-600',
-      download: true
-    }
+    // {
+    //   name: 'Resume',
+    //   href: '/projects/Ajey_N_Resume.pdf',
+    //   icon: FileDown,
+    //   color: 'text-green-600',
+    //   download: true
+    // }
   ]
 
   return (
